@@ -2,7 +2,7 @@ Code basic is just an batter understanding for the code formate, settings, How t
 
 ### Button <button>
 
-#### Formate
+####💠 Formate
 
 |❌ Don't      |✅ Do |
 | ----------- | ----------- |
@@ -10,7 +10,7 @@ Code basic is just an batter understanding for the code formate, settings, How t
 
 > **Note** - Always add <code>type</code> attribute in your button tag , type attribute is an indigator that is tell the browser it is a button tag. <code>role=""</code> attribute is not a nessesary attribute.
 
-#### Usage 🔰
+#### 🔰 Usage
 > 
 
 |❌ Don't      |✅ Do |
@@ -21,10 +21,12 @@ Code basic is just an batter understanding for the code formate, settings, How t
 
 ### Image <img> 
 
-#### Formate
+####💠 Formate
 
 |❌ Don't      |✅ Do |
 | ----------- | ----------- |
-|```<img Src='' >```|  ```<img src='./assets/icon.png' alt='site-icon' />```  |
+| ```<image source='' >```|  ```<img src='./assets/icon.png' alt='site-icon' />```  |
 
 > **Note** - Always add <code>alt=""</code> attribute in your img tag , alt attribute will give a specific name of current image, it will help us to find our image in google. add <code> / </code>slash in end of the  <code>img </code> tag, because img tag is not have closing tag.
+
+  
