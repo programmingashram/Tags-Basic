@@ -2,7 +2,7 @@ Code basic is just an batter understanding for the code formate, settings, How t
 
 ### Button <button>
 
-####💠 Formate
+#### 💠 Formate
 
 |❌ Don't      |✅ Do |
 | ----------- | ----------- |
@@ -19,9 +19,9 @@ Code basic is just an batter understanding for the code formate, settings, How t
 
 <hr>
 
-### Image <img> 
+### Image <img /> 
 
-####💠 Formate
+#### 💠 Formate
 
 |❌ Don't      |✅ Do |
 | ----------- | ----------- |
