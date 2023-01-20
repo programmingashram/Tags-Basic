@@ -13,5 +13,5 @@ Let' start
 > **Note** - Always add <code>type</code> attribute in your button tag , type attribute is an indigator that is tell the browser it is a button tag. <code>role=""</code> attribute is not a nessesary attribute.
 
 #### Usage 
-> In <code>button</code> you can add an text, some are html tags like - <i>, <br>, <span>.
+> In <code>button</code> you can add an text, some are html tags like ```<i>, <br>, <span>```
 
